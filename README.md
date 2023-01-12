@@ -65,7 +65,7 @@ After you're finished please remove all the comments and instructions!
 
 **[Hello Microverse]** is the initial project of Microverse, applying new knowledge and best practices in the most professional way possible.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with"></a> 
 
 ### Tech Stack <a name="tech-stack"></a>
 
