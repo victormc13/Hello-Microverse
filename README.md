@@ -236,9 +236,9 @@ Example:
 
 <!-- > Describe 1 - 3 features you will add to the project. -->
 
-- this project has no future functions at this time
+- This project has no future functions at this time.
 
-<!*-- 
+<!-- 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
 - [ ] **[new_feature_3]** -->
@@ -259,7 +259,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+<!-- > Write a message to encourage readers to support your project -->
 
 If you like this project you can let me know and share it with your friends
 
@@ -269,7 +269,7 @@ If you like this project you can let me know and share it with your friends
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+<!-- > Give credit to everyone who inspired your codebase. -->
 
 I would like to thank Microverse for providing this opportunity and my colleagues for giving me the inspiration to continue with this project.
 
