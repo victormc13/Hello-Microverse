@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-<!*-- > Describe your project in 1 or 2 sentences. -->
+<!-- > Describe your project in 1 or 2 sentences. -->
 
 **[Hello Microverse]** is the initial project of Microverse, applying new knowledge and best practices in the most professional way possible.
 
@@ -70,7 +70,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<!*-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
+<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
 
 <details>
   <summary>Client</summary>
@@ -94,11 +94,11 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!*-- Features -->
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-<!*-- > Describe between 1-3 key features of the application. -->
+<!-- > Describe between 1-3 key features of the application. -->
 
 - **[Correct set up of git / github flows and set up linters.]**
 - **[The creation and addition of HTML and CSS files in separate commits.]**
@@ -106,21 +106,21 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!*-- LIVE DEMO -->
+<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<!*-- > Add a link to your deployed project. -->
+<!-- > Add a link to your deployed project. -->
 
 - [There is no live demo for this project yet](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!*-- GETTING STARTED -->
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-<!*-- > Describe how a new developer could make use of your project. -->
+<!-- > Describe how a new developer could make use of your project. -->
 
 To get a local copy up and running, follow these steps.
 
@@ -210,11 +210,11 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!*-- AUTHORS -->
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-<!*-- > Mention all of the collaborators of this project. -->
+<!-- > Mention all of the collaborators of this project. -->
 
 👤 **Victor Miñope**
 
@@ -222,7 +222,7 @@ Example:
 - Twitter: [@VctorMC20](https://twitter.com/VctorMC20)
 - LinkedIn: [Victor MC](https://www.linkedin.com/in/victormc13/)
 
-<!*-- 👤 **Author2**
+<!-- 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
@@ -230,11 +230,11 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-<!*-- FUTURE FEATURES -->
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-<!*-- > Describe 1 - 3 features you will add to the project. -->
+<!-- > Describe 1 - 3 features you will add to the project. -->
 
 - this project has no future functions at this time
 
@@ -245,7 +245,7 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!*-- CONTRIBUTING -->
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -255,7 +255,7 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!*-- SUPPORT -->
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -277,9 +277,9 @@ I would like to thank Microverse for providing this opportunity and my colleague
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!*-- FAQ (optional) -->
+<!-- FAQ (optional) -->
 
-<!*-- ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+<!-- ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
@@ -293,12 +293,12 @@ I would like to thank Microverse for providing this opportunity and my colleague
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-<!*-- LICENSE -->
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-<!*-- _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._ -->
+<!-- _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
