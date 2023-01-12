@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="baner.png" alt="logo" width="100%"  height="auto" />
   <br/>
 
-  <h3 style="font-size: 3rem">Hello Microverse</h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
