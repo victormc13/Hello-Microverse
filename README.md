@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -112,7 +112,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- > Add a link to your deployed project. -->
 
-- [There is no live demo for this project yet](https://yourdeployedapplicationlink.com)
+- There is no live demo for this project yet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +126,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+<!-- In order to run this project you need: -->
 
 - No prerequisites
 
@@ -142,18 +142,18 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
+
 Example commands:
 
 ```sh
-  cd root folder
+  cd [your-folder]
   git clone https://github.com/victormc13/Hello-Microverse.git
 ```
---->
+
 
 ### Install
 
-Install this project with:
+<!-- Install this project with: -->
 
 - This project does not require installation
 
@@ -168,7 +168,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+<!-- To run the project, execute the following command: -->
 
 - There's no command required to run the project
 
@@ -182,7 +182,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+<!-- To run tests, run the following command: -->
 
 - There's no test for this project
 
@@ -196,7 +196,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+<!-- You can deploy this project using: -->
 
 - This is not a deployable project
 
