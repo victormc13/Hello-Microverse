@@ -3,9 +3,13 @@ body {
 }
 
 .header {
-  background-color: rgb(85, 0, 134);
-  color: rgb(0, 104, 207);
+  color: #ffffff;
   text-align: center;
   font-size: 5rem;
-  padding: 3rem;
+  padding: 13%;
+
+  /* background header */
+  background: radial-gradient(#051ca3, #4f0496, #4f0496);
+  border-radius: 6px;
+  height: 120px;
 }
